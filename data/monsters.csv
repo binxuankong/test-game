@@ -1,0 +1,4 @@
+ID,Name,Level,Element,Gender,Type,Weapon,Range,HP,MP,Attack,Defence,Speed,Damage Multiplier,Defence Multiplier
+1,Goblin,1,Emerald,Male,Goblin,Mace,1,800,200,120,100,80,1,1
+2,Target Dummy,10,Ruby,Male,Test,None,3,99999,99999,4000,5000,525,1,1
+3,Draco,100,Ruby,Male,Dragon,None,3,391434,11946,5803,5966,513,2.4,1.3

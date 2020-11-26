@@ -1,0 +1,6 @@
+ID,Name,Element,Gender,Class,Weapon,Range,HP,MP,Attack,Defence,Speed,Skill 1,Skill 1,Ability 1,Ability 2,Ability 3,Level Up
+1,CharA,Ruby,Female,Cleric,Dagger,3,5204,541,318,425,110,Skill1,Skill2,Ability1,Ability2,Ability3,"[6.385,27.41,3.592,3.8808,5.304]"
+2,CharB,Sapphire,Female,Knight,Pole Arm,2,5038,346,317,574,113,Skill1,Skill2,Ability1,Ability2,Ability3,"[6.3526,17.52,3.5886,4.1808,5.494]"
+3,CharC,Emerald,Male,Warrior,Sword,1,5833,307,341,502,117,Skill1,Skill2,Ability1,Ability2,Ability3,"[6.4172,16.44,3.5912,3.9844,5.499]"
+4,CharD,Topaz,Male,Rogue,Axe,2,4135,282,516,308,130,Skill1,Skill2,Ability1,Ability2,Ability3,"[6.1552,14.28,4.075,3.5598,6.263]"
+5,CharE,Onyx,Female,Magician,Dagger,3,3033,532,575,324,115,Skill1,Skill2,Ability1,Ability2,A
