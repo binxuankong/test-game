@@ -1,144 +1,144 @@
-Adventure,Base Rarity,Class,Weapon,Element,Availability,Gender,Release
-Taiga,2,Warrior,Dagger,Ruby,Story,Female,0
-Khun,2,Cleric,Blade,Sapphire,Story,Male,0
-Rawn,2,Ranger,Axe,Emerald,Story,Male,0
-Ryujin,2,Rogue,Lance,Topaz,Story,Male,0
-Kaede,2,Knight,Staff,Onyx,Story,Female,0
-Sayori,2,Mage,Wand,Amber,Story,Female,0
-Fritz,2,Rogue,Dagger,Ruby,Permanent,Male,1
-Damian,2,Ranger,Gun,Ruby,Permanent,Male,1
-Senzo,2,Mage,Lance,Ruby,Permanent,Male,1
-Maxine,2,Cleric,Wand,Ruby,Permanent,Female,1
-Rena,3,Knight,Blade,Ruby,Permanent,Female,1
-Hyun,2,Warrior,Gauntlets,Sapphire,Permanent,Female,1
-Esable,2,Knight,Bow,Sapphire,Permanent,Female,1
-Offenbach,2,Ranger,Dagger,Sapphire,Permanent,Male,1
-Gifford,2,Mage,Staff,Sapphire,Permanent,Male,1
-Kin,3,Rogue,Blade,Sapphire,Permanent,Female,1
-Kiris,2,Knight,Wand,Emerald,Permanent,Female,1
-Gozen,2,Rogue,Blade,Emerald,Permanent,Male,1
-Vind,2,Mage,Sword,Emerald,Permanent,Male,1
-Destina,2,Cleric,Bow,Emerald,Permanent,Female,1
-Canis,3,Warrior,Gauntlets,Emerald,Permanent,Male,1
-Ozanne,2,Warrior,Axe,Topaz,Permanent,Female,1
-Ryza,2,Knight,Gun,Topaz,Permanent,Female,1
-Rea,2,Ranger,Bow,Topaz,Permanent,Female,1
-Micah,2,Cleric,Mace,Topaz,Permanent,Male,1
-Atari,3,Mage,Gauntlets,Topaz,Permanent,Male,1
-Udo,2,Warrior,Sword,Onyx,Permanent,Female,1
-Neka,2,Rogue,Axe,Onyx,Permanent,Female,1
-Hurado,2,Mage,Staff,Onyx,Permanent,Male,1
-Docward,2,Cleric,Mace,Onyx,Permanent,Male,1
-Nevermore,3,Ranger,Bow,Onyx,Permanent,Male,1
-Devon,2,Warrior,Mace,Amber,Permanent,Male,1
-Phillip,2,Knight,Lance,Amber,Permanent,Male,1
-Eres,2,Ranger,Dagger,Amber,Permanent,Female,1
-Vive,2,Rogue,Sword,Amber,Permanent,Female,1
-Miki,3,Cleric,Gun,Amber,Permanent,Female,1
-Elsie,2,Mage,Sword,Topaz,Permanent,Female,2
-Xuefeng,3,Rogue,Gun,Ruby,Permanent,Male,2
-,2,Ranger,,Onyx,Permanent,,3
-Tomoe,3,Cleric,Sword,Sapphire,Permanent,Female,3
-,2,Cleric,,Amber,Permanent,,4
-,3,,,Emerald,Permanent,,4
-Lionel,2,Knight,Mace,Ruby,Permanent,Male,5
-Tesla,3,Ranger,Gun,Topaz,Permanent,Female,5
-,2,Rogue,,Sapphire,Permanent,,6
-Tamamo,3,Mage,Wand,Onyx,Permanent,Female,6
-,2,Warrior,,Emerald,Permanent,,7
-Delilah,3,Mage,Wand,Amber,Permanent,Female,7
-,2,,,Topaz,Permanent,,8
-,3,,,Ruby,Permanent,,8
-Josuke,2,Warrior,Mace,Onyx,Permanent,Male,9
-Uemi,3,Ranger,Blade,Sapphire,Permanent,Male,9
-Syllia,3,Ranger,Bow,Emerald,Imperial,Female,10
-Glove,2,Rogue,Gun,Amber,Permanent,Male,11
-Cotton,3,Cleric,Wand,Emerald,Permanent,Male,11
-Ken,2,Warrior,Gauntlets,Ruby,Permanent,Male,12
-Edison,3,Rogue,Axe,Topaz,Permanent,Male,12
-,2,,,Sapphire,Permanent,,13
-Daki,3,Warrior,Axe,Onyx,Permanent,Female,13
-,2,,,Emerald,Permanent,,14
-Daou,3,Warrior,Mace,Amber,Permanent,Female,14
-Shingen,3,Ranger,Sword,Onyx,Twilight Garden,Male,15
-Nebula,3,Rogue,Lance,Onyx,Twilight Garden,Female,15
-,2,,,Topaz,Permanent,,16
-Erza,3,Mage,Staff,Ruby,Permanent,Female,16
-,2,,,Onyx,Permanent,,17
-Luna,3,Knight,Lance,Sapphire,Permanent,Female,17
-,2,,,Amber,Permanent,,18
-Wukong,3,Warrior,Staff,Emerald,Permanent,Male,18
-,2,,,Ruby,Permanent,,19
-Tenji,3,Mage,Axe,Topaz,Permanent,Male,19
-Ezax,3,Mage,Wand,Sapphire,Imperial,Male,20
-,2,,,Sapphire,Permanent,,21
-Janus,3,Cleric,Lance,Onyx,Permanent,Male,21
-,2,,,Emerald,Permanent,,22
-,3,,,Amber,Permanent,,22
-,2,,,Topaz,Permanent,,23
-Hinata,3,Cleric,Wand,Ruby,Permanent,Female,23
-,2,,,Onyx,Permanent,,24
-,3,,,Sapphire,Permanent,,24
-Hibiki,3,Mage,Gauntlets,Emerald,Twilight Garden,Female,25
-Minami,3,Mage,Wand,Amber,Twilight Garden,Female,25
-,4,,,,Rebirth,,26
-,4,,,,Rebirth,,26
-,4,,,,Rebirth,,26
-,2,,,Amber,Permanent,,27
-,3,,,Emerald,Permanent,,27
-,2,,,Ruby,Permanent,,28
-,3,,,Topaz,Permanent,,28
-,2,,,Sapphire,Permanent,,29
-Shika,3,Knight,Axe,Onyx,Permanent,Male,29
-Berzerk,3,Warrior,Blade,Ruby,Imperial,Male,30
-,2,,,Emerald,Permanent,,31
-,3,,,Amber,Permanent,,31
-,2,,,Topaz,Permanent,,32
-,3,,,Ruby,Permanent,,32
-,2,,,Onyx,Permanent,,33
-,3,,,Sapphire,Permanent,,33
-,3,,,Emerald,Permanent,,34
-Hori,3,Rogue,Blade,Emerald,Twilight Garden,Female,35
-Miya,3,Knight,Dagger,Emerald,Twilight Garden,Male,35
-,2,,,Amber,Permanent,,36
-,3,,,Emerald,Permanent,,36
-,2,,,Ruby,Permanent,,37
-,3,,,Topaz,Permanent,,37
-,2,,,Sapphire,Permanent,,38
-,3,,,Onyx,Permanent,,38
-,2,,,Emerald,Permanent,,39
-,3,,,Amber,Permanent,,39
-Seraph,3,Knight,Sword,Topaz,Imperial,Female,40
-,3,,,Ruby,Permanent,,41
-,3,,,Sapphire,Permanent,,42
-,3,,,Emerald,Permanent,,43
-,3,,,Topaz,Permanent,,44
-Erandel,3,Cleric,Bow,Sapphire,Twilight Garden,Female,45
-Von Jahn,3,Cleric,Axe,Onyx,Twilight Garden,Male,45
-,3,,,Onyx,Permanent,,46
-,3,,,Amber,Permanent,,47
-,3,,,Ruby,Permanent,,48
-,3,,,Sapphire,Permanent,,49
-Selene,3,Rogue,Axe,Onyx,Imperial,Female,50
-,3,,,Emerald,Permanent,,51
-,4,,,,Rebirth,,52
-,4,,,,Rebirth,,52
-,4,,,,Rebirth,,52
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-Rubick,3,Mage,Gauntlets,Amber,Imperial,Male,60
-,,,,,,,
-,,,,,Seasonal,,Lunar
-,,,,,Seasonal,,Valentine
-,,,,,Seasonal,,Wedding
-,,,,,Seasonal,,Summer
-,,,,,Seasonal,,School
-,,,,,Seasonal,,Halloween
-,,,,,Seasonal,,Christmas
-,,,,,Collab,,
+Adventure,Base Rarity,Class,Weapon,Element,Availability,Gender,Affiliation,Release
+Taiga,2,Warrior,Dagger,Ruby,Story,Female,Dikaisia,0
+Zan,2,Cleric,Blade,Sapphire,Story,Male,Haiping,0
+Rawn,2,Ranger,Axe,Emerald,Story,Male,Egalus,0
+Ryujin,2,Rogue,Lance,Topaz,Story,Male,Dikaisia,0
+Kaede,2,Knight,Staff,Onyx,Story,Female,Fur Etopia,0
+Sayori,2,Mage,Wand,Amber,Story,Female,Haiping,0
+Fritz,2,Rogue,Dagger,Ruby,Permanent,Male,Fur Etopia,1
+Damian,2,Ranger,Gun,Ruby,Permanent,Male,Egalus,1
+Senzo,2,Mage,Lance,Ruby,Permanent,Male,Dikaisia,1
+Panlei,2,Cleric,Wand,Ruby,Permanent,Female,Haiping,1
+Rena,3,Knight,Blade,Ruby,Permanent,Female,Dikaisia,1
+Hyun,2,Warrior,Gauntlets,Sapphire,Permanent,Female,Dikaisia,1
+Esable,2,Knight,Bow,Sapphire,Permanent,Female,Haiping,1
+Offenbach,2,Ranger,Dagger,Sapphire,Permanent,Male,Egalus,1
+Gifford,2,Mage,Staff,Sapphire,Permanent,Male,Fur Etopia,1
+Kin,3,Rogue,Blade,Sapphire,Permanent,Female,Haiping,1
+Kiris,2,Knight,Wand,Emerald,Permanent,Female,Dikaisia,1
+Gozen,2,Rogue,Blade,Emerald,Permanent,Male,Haiping,1
+Vind,2,Mage,Sword,Emerald,Permanent,Male,Egalus,1
+Destina,2,Cleric,Bow,Emerald,Permanent,Female,Fur Etopia,1
+Canis,3,Warrior,Gauntlets,Emerald,Permanent,Male,Egalus,1
+Ozanne,2,Warrior,Axe,Topaz,Permanent,Female,Dikaisia,1
+Ryza,2,Knight,Gun,Topaz,Permanent,Female,Haiping,1
+Rea,2,Ranger,Bow,Topaz,Permanent,Female,Egalus,1
+Micah,2,Cleric,Mace,Topaz,Permanent,Male,Fur Etopia,1
+Atari,3,Mage,Gauntlets,Topaz,Permanent,Male,Egalus,1
+Udo,2,Warrior,Sword,Onyx,Permanent,Female,Egalus,1
+Neka,2,Rogue,Axe,Onyx,Permanent,Female,Dikaisia,1
+Jun,2,Mage,Staff,Onyx,Permanent,Male,Haiping,1
+Docward,2,Cleric,Mace,Onyx,Permanent,Male,Fur Etopia,1
+Nevermore,3,Ranger,Bow,Onyx,Permanent,Male,Fur Etopia,1
+Devon,2,Warrior,Mace,Amber,Permanent,Male,Egalus,1
+Phillip,2,Knight,Lance,Amber,Permanent,Male,Fur Etopia,1
+Yawen,2,Ranger,Dagger,Amber,Permanent,Female,Haiping,1
+Vive,2,Rogue,Sword,Amber,Permanent,Female,Haiping,1
+Miki,3,Cleric,Gun,Amber,Permanent,Female,Dikaisia,1
+Elsie,2,Mage,Sword,Topaz,Permanent,Female,Fur Etopia,2
+Xuefeng,3,Rogue,Gun,Ruby,Permanent,Male,Egalus,2
+Dred,2,Ranger,Lance,Onyx,Permanent,Male,Haiping,3
+Tomoe,3,Cleric,Sword,Sapphire,Permanent,Female,Dikaisia,3
+Lingxin,2,Cleric,Dagger,Amber,Permanent,Female,Haiping,4
+Lief,3,Knight,Mace,Emerald,Permanent,Male,Fur Etopia,4
+Lionel,2,Knight,Mace,Ruby,Permanent,Male,Fur Etopia,5
+Tesla,3,Ranger,Gun,Topaz,Permanent,Female,Dikaisia,5
+,2,Rogue,,Sapphire,Permanent,Male,,6
+Tamamo,3,Mage,Wand,Onyx,Permanent,Female,Fur Etopia,6
+Jing,2,Warrior,Bow,Emerald,Permanent,Female,Dikaisia,7
+Glove,3,Rogue,Gun,Amber,Permanent,Male,Egalus,7
+,2,,,Topaz,Permanent,,,8
+,3,,,Ruby,Permanent,,,8
+Josuke,2,Warrior,Mace,Onyx,Permanent,Male,Dikaisia,9
+Uemi,3,Ranger,Blade,Sapphire,Permanent,Male,Haiping,9
+Syllia,3,Ranger,Bow,Emerald,Imperial,Female,None,10
+Delilah,2,Mage,Wand,Amber,Permanent,Female,Fur Etopia,11
+Cotton,3,Cleric,Wand,Emerald,Permanent,Male,Dikaisia,11
+Ken,2,Warrior,Gauntlets,Ruby,Permanent,Male,Dikaisia,12
+Edison,3,Rogue,Axe,Topaz,Permanent,Male,Egalus,12
+,2,,,Sapphire,Permanent,,,13
+Daki,3,Warrior,Axe,Onyx,Permanent,Female,Egalus,13
+,2,,,Emerald,Permanent,,,14
+Daou,3,Warrior,Mace,Amber,Permanent,Female,Fur Etopia,14
+Shingen,3,Ranger,Sword,Onyx,Twilight Garden,Male,None,15
+Nebula,3,Rogue,Lance,Onyx,Twilight Garden,Female,None,15
+,2,,,Topaz,Permanent,,,16
+Erza,3,Mage,Staff,Ruby,Permanent,Female,Fur Etopia,16
+Gujie,2,Mage,Staff,Onyx,Permanent,Male,Dikaisia,17
+Luna,3,Knight,Lance,Sapphire,Permanent,Female,Egalus,17
+,2,,,Amber,Permanent,,,18
+Wukong,3,Warrior,Staff,Emerald,Permanent,Male,Fur Etopia,18
+,2,,,Ruby,Permanent,,,19
+Tenji,3,Mage,Axe,Topaz,Permanent,Male,Haiping,19
+Ezax,3,Mage,Wand,Sapphire,Imperial,Male,None,20
+,2,,,Sapphire,Permanent,,,21
+Xuegang,3,Cleric,Lance,Onyx,Permanent,Male,Haiping,21
+,2,,,Emerald,Permanent,,,22
+,3,,,Amber,Permanent,,,22
+,2,,,Topaz,Permanent,,,23
+Hinata,3,Cleric,Wand,Ruby,Permanent,Female,Haiping,23
+,2,,,Onyx,Permanent,,,24
+,3,,,Sapphire,Permanent,,,24
+Hibiki,3,Mage,Gauntlets,Emerald,Twilight Garden,Female,None,25
+Minami,3,Mage,Wand,Amber,Twilight Garden,Female,None,25
+,4,,,,Rebirth,,,26
+,4,,,,Rebirth,,,26
+,4,,,,Rebirth,,,26
+,2,,,Amber,Permanent,,,27
+,3,,,Emerald,Permanent,,,27
+,2,,,Ruby,Permanent,,,28
+,3,,,Topaz,Permanent,,,28
+,2,,,Sapphire,Permanent,,,29
+Shika,3,Knight,Axe,Onyx,Permanent,Male,Haiping,29
+Berzerk,3,Warrior,Blade,Ruby,Imperial,Male,None,30
+,2,,,Emerald,Permanent,,,31
+,3,,,Amber,Permanent,,,31
+,2,,,Topaz,Permanent,,,32
+,3,,,Ruby,Permanent,,,32
+,2,,,Onyx,Permanent,,,33
+,3,,,Sapphire,Permanent,,,33
+,3,,,Emerald,Permanent,,,34
+Hori,3,Rogue,Blade,Emerald,Twilight Garden,Female,None,35
+Miya,3,Knight,Dagger,Emerald,Twilight Garden,Male,None,35
+,2,,,Amber,Permanent,,,36
+,3,,,Emerald,Permanent,,,36
+,2,,,Ruby,Permanent,,,37
+,3,,,Topaz,Permanent,,,37
+,2,,,Sapphire,Permanent,,,38
+,3,,,Onyx,Permanent,,,38
+,2,,,Emerald,Permanent,,,39
+,3,,,Amber,Permanent,,,39
+Seraph,3,Knight,Sword,Topaz,Imperial,Female,None,40
+,3,,,Ruby,Permanent,,,41
+,3,,,Sapphire,Permanent,,,42
+,3,,,Emerald,Permanent,,,43
+,3,,,Topaz,Permanent,,,44
+Erandel,3,Cleric,Bow,Sapphire,Twilight Garden,Female,None,45
+Von Jahn,3,Cleric,Axe,Onyx,Twilight Garden,Male,None,45
+,3,,,Onyx,Permanent,,,46
+,3,,,Amber,Permanent,,,47
+,3,,,Ruby,Permanent,,,48
+,3,,,Sapphire,Permanent,,,49
+Selene,3,Rogue,Axe,Onyx,Imperial,Female,None,50
+,3,,,Emerald,Permanent,,,51
+,4,,,,Rebirth,,,52
+,4,,,,Rebirth,,,52
+,4,,,,Rebirth,,,52
+,3,,,Topaz,Permanent,,,53
+,3,,,Onyx,Permanent,,,54
+,3,,,,Twilight Garden,,None,55
+,3,,,,Twilight Garden,,None,55
+,3,,,Amber,Permanent,,,56
+,3,,,Ruby,Permanent,,,57
+,3,,,Sapphire,Permanent,,,58
+,3,,,Emerald,Permanent,,,59
+Rubick,3,Mage,Gauntlets,Amber,Imperial,Male,None,60
+,,,,,,,,
+,,,,,Seasonal,,,Lunar
+,,,,,Seasonal,,,Valentine
+,,,,,Seasonal,,,Wedding
+,,,,,Seasonal,,,Summer
+,,,,,Seasonal,,,School
+,,,,,Seasonal,,,Halloween
+,,,,,Seasonal,,,Christmas
+,,,,,Collab,,,
