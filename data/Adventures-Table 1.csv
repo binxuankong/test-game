@@ -43,12 +43,12 @@ Lingxin,2,Cleric,Dagger,Amber,Permanent,Female,Haiping,4
 Lief,3,Knight,Mace,Emerald,Permanent,Male,Fur Etopia,4
 Lionel,2,Knight,Mace,Ruby,Permanent,Male,Fur Etopia,5
 Tesla,3,Ranger,Gun,Topaz,Permanent,Female,Dikaisia,5
-,2,Rogue,,Sapphire,Permanent,Male,,6
+Glace,2,Rogue,Dagger,Sapphire,Permanent,Male,Egalus,6
 Tamamo,3,Mage,Wand,Onyx,Permanent,Female,Fur Etopia,6
 Jing,2,Warrior,Bow,Emerald,Permanent,Female,Dikaisia,7
 Glove,3,Rogue,Gun,Amber,Permanent,Male,Egalus,7
-,2,,,Topaz,Permanent,,,8
-,3,,,Ruby,Permanent,,,8
+Leyin,2,Cleric,Gun,Topaz,Permanent,Female,Egalus,8
+Erza,3,Mage,Staff,Ruby,Permanent,Female,Fur Etopia,8
 Josuke,2,Warrior,Mace,Onyx,Permanent,Male,Dikaisia,9
 Uemi,3,Ranger,Blade,Sapphire,Permanent,Male,Haiping,9
 Syllia,3,Ranger,Bow,Emerald,Imperial,Female,None,10
@@ -63,7 +63,7 @@ Daou,3,Warrior,Mace,Amber,Permanent,Female,Fur Etopia,14
 Shingen,3,Ranger,Sword,Onyx,Twilight Garden,Male,None,15
 Nebula,3,Rogue,Lance,Onyx,Twilight Garden,Female,None,15
 ,2,,,Topaz,Permanent,,,16
-Erza,3,Mage,Staff,Ruby,Permanent,Female,Fur Etopia,16
+,3,Ranger,,Ruby,Permanent,,,16
 Gujie,2,Mage,Staff,Onyx,Permanent,Male,Dikaisia,17
 Luna,3,Knight,Lance,Sapphire,Permanent,Female,Egalus,17
 ,2,,,Amber,Permanent,,,18

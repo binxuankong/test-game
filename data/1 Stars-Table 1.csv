@@ -1,0 +1,37 @@
+Adventure,Base Rarity,Class,Weapon,Element,Gender,Affiliation
+R.Warrior,1,Warrior,Sword,Ruby,Female,Egalus
+R.Knight,1,Knight,Lance,Ruby,Male,Fur Etopia
+R.Ranger,1,Ranger,Gun,Ruby,Male,Haiping
+R.Rogue,1,Rogue,Dagger,Ruby,Male,Fur Etopia
+R.Mage,1,Mage,Staff,Ruby,Female,Haiping
+R.Cleric,1,Cleric,Mace,Ruby,Female,Dikaisia
+S.Warrior,1,Warrior,Axe,Sapphire,Female,Dikaisia
+S.Knight,1,Knight,Lance,Sapphire,Female,Egalus
+S.Ranger,1,Ranger,Dagger,Sapphire,Female,Egalus
+S.Rogue,1,Rogue,Blade,Sapphire,Male,Dikaisia
+S.Mage,1,Mage,Sword,Sapphire,Male,Fur Etopia
+S.Cleric,1,Cleric,Staff,Sapphire,Male,Haiping
+E.Warrior,1,Warrior,Gauntlets,Emerald,Male,Fur Etopia
+E.Knight,1,Knight,Axe,Emerald,Male,Dikaisia
+E.Ranger,1,Ranger,Dagger,Emerald,Female,Haiping
+E.Rogue,1,Rogue,Lance,Emerald,Male,Egalus
+E.Mage,1,Mage,Sword,Emerald,Female,Egalus
+E.Cleric,1,Cleric,Wand,Emerald,Female,Haiping
+T.Warrior,1,Warrior,Axe,Topaz,Female,Haiping
+T.Knight,1,Knight,Mace,Topaz,Male,Egalus
+T.Ranger,1,Ranger,Bow,Topaz,Female,Dikaisia
+T.Rogue,1,Rogue,Lance,Topaz,Male,Fur Etopia
+T.Mage,1,Mage,Wand,Topaz,Female,Dikaisia
+T.Cleric,1,Cleric,Staff,Topaz,Male,Fur Etopia
+O.Warrior,1,Warrior,Sword,Onyx,Male,Egalus
+O.Knight,1,Knight,Mace,Onyx,Male,Haiping
+O.Ranger,1,Ranger,Bow,Onyx,Male,Egalus
+O.Rogue,1,Rogue,Blade,Onyx,Female,Dikaisia
+O.Mage,1,Mage,Staff,Onyx,Female,Fur Etopia
+O.Cleric,1,Cleric,Wand,Onyx,Female,Dikaisia
+A.Warrior,1,Warrior,Gauntlets,Amber,Female,Haiping
+A.Knight,1,Knight,Axe,Amber,Male,Egalus
+A.Ranger,1,Ranger,Gun,Amber,Female,Dikaisia
+A.Rogue,1,Rogue,Dagger,Amber,Female,Haiping
+A.Mage,1,Mage,Wand,Amber,Male,Fur Etopia
+A.Cleric,1,Cleric,Mace,Amber,Male,Fur Etopia
